@@ -34,19 +34,21 @@
   # print(fr.seek(10))
 
 
-import random as r
+#import random as r
 #print(r.random())
 #print(r.randint(10,30))
 #print(r.randint(10,30))
 #print(r.seed(3))
 
 
-l1 = [ x for x in range(1,11)]
-print(l1)
-r.shuffle(l1)
-print(l1)
-print(r.choice(l1))
-print(r.sample(l1,10))
+#l1 = [ x for x in range(1,11)]
+#print(l1)
+#r.shuffle(l1)
+#print(l1)
+#print(r.choice(l1))
+#print(r.sample(l1,10))
+
+change
 
 
 
